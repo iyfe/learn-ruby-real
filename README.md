@@ -1,5 +1,5 @@
 # IyfePalindrome
-`iyfe_palindrome is a sample Ruby gem created in Learn enough Ruby to be dangerous
+`iyfe_palindrome` is a sample Ruby gem created in Learn enough Ruby to be dangerous
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
     $ gem install iyfe_palindrome
 
 ## Usage
-palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
+`iyfe_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
 
 ```
 $ irb
