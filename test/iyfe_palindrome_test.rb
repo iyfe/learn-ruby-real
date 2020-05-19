@@ -13,7 +13,7 @@ class IyfePalindromeTest < Minitest::Test
     assert "RaceCar".palindrome?
   end
   def test_palindrome_with_punctuation
-      assert "Madam I'm Adam".palindrome?
+      assert "A man, A plan A canal - Panama!".palindrome?
   end
   def test_integer_non_plaindrome
       refute 12345.palindrome?
